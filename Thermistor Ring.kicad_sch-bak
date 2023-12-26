@@ -2311,7 +2311,7 @@
     (property "Value" "TPS7A2018PDBVR" (at 118.872 -17.78 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "TPS7A201:DBV0005A-IPC_A" (at 101.092 -12.192 0)
+    (property "Footprint" "LDO_TSA7A:DBV0005A-IPC_A" (at 101.092 -12.192 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "TPS7A2018PDBVR" (at 101.092 -12.192 0)
