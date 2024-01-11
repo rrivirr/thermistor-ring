@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TempSensorBreakout")(type "KiCad")(uri "${KIPRJMOD}/lib/TempSensorBreakout.kicad_sym")(options "")(descr ""))
+)
