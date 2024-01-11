@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Temp_Sensor_Breakout")(type "KiCad")(uri "${KIPRJMOD}/Temp_Sensor_Breakout.pretty")(options "")(descr ""))
+)
