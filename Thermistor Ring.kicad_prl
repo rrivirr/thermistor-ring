@@ -2,7 +2,7 @@
   "board": {
     "active_layer": 0,
     "active_layer_preset": "",
-    "auto_track_width": true,
+    "auto_track_width": false,
     "hidden_netclasses": [],
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -14,6 +14,7 @@
       "vias": 1.0,
       "zones": 0.6
     },
+    "ratsnest_display_mode": 0,
     "selection_filter": {
       "dimensions": true,
       "footprints": true,
@@ -66,7 +67,7 @@
       39,
       40
     ],
-    "visible_layers": "ffdf020_ffffffff",
+    "visible_layers": "800f0ef_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
