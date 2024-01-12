@@ -555,13 +555,13 @@
   (symbol (lib_id "Device:C") (at 69.85 48.26 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 562dffd1-dedc-4189-9c92-40953ef253af)
-    (property "Reference" "C9" (at 73.66 46.99 0)
+    (property "Reference" "C1" (at 73.66 46.99 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1uF" (at 73.66 49.53 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 70.8152 52.07 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 70.8152 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 69.85 48.26 0)
@@ -572,7 +572,7 @@
     (instances
       (project "Thermistor Ring"
         (path "/6637e588-6cff-41c7-8818-9eea1dd986d9"
-          (reference "C9") (unit 1)
+          (reference "C1") (unit 1)
         )
       )
     )
