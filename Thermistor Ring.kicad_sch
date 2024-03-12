@@ -1173,6 +1173,31 @@
     (uuid e10076a7-f645-4943-8763-da304c3eaefa)
   )
 
+  (symbol (lib_id "power:GND") (at 293.878 56.642 90) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 0375e25e-94be-4594-afd9-2f7919b2eeb2)
+    (property "Reference" "#PWR018" (at 300.228 56.642 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 297.18 56.642 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Footprint" "" (at 293.878 56.642 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 293.878 56.642 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid eabae621-2a99-4c3c-b39e-4e58048114af))
+    (instances
+      (project "Thermistor Ring"
+        (path "/6637e588-6cff-41c7-8818-9eea1dd986d9"
+          (reference "#PWR018") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Device:C") (at 140.208 -16.002 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 05ae97fa-165b-4df1-a643-2d6d1710d563)
@@ -1424,6 +1449,31 @@
       (project "Thermistor Ring"
         (path "/6637e588-6cff-41c7-8818-9eea1dd986d9"
           (reference "C2") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:GND") (at 293.878 51.562 90) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 2a78b9fd-8115-423f-9ce7-bc03d18d3a94)
+    (property "Reference" "#PWR019" (at 300.228 51.562 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 297.6074 51.562 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Footprint" "" (at 293.878 51.562 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 293.878 51.562 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid ab757314-6bfc-4d79-bb70-1e1e9ca39cca))
+    (instances
+      (project "Thermistor Ring"
+        (path "/6637e588-6cff-41c7-8818-9eea1dd986d9"
+          (reference "#PWR019") (unit 1)
         )
       )
     )
@@ -1923,6 +1973,31 @@
       (project "Thermistor Ring"
         (path "/6637e588-6cff-41c7-8818-9eea1dd986d9"
           (reference "#PWR04") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:GND") (at 293.878 61.722 90) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid dab821d3-4e2a-4654-b092-f35daeda5eba)
+    (property "Reference" "#PWR017" (at 300.228 61.722 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 297.18 61.722 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Footprint" "" (at 293.878 61.722 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 293.878 61.722 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 810ece51-0d9f-43ff-baa1-4a6590febd54))
+    (instances
+      (project "Thermistor Ring"
+        (path "/6637e588-6cff-41c7-8818-9eea1dd986d9"
+          (reference "#PWR017") (unit 1)
         )
       )
     )
