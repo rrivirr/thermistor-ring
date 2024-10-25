@@ -66,14 +66,8 @@
       39,
       40
     ],
-    "visible_layers": "ffda288_00000000",
+    "visible_layers": "0000008_00000000",
     "zone_display_mode": 0
-  },
-  "git": {
-    "repo_password": "",
-    "repo_type": "",
-    "repo_username": "",
-    "ssh_key": ""
   },
   "meta": {
     "filename": "Thermistor Ring.kicad_prl",

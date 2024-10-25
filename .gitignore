@@ -2,3 +2,6 @@
 *.lck
 *-backups
 #auto*
+parts
+fp-info-cache
+_auto*
