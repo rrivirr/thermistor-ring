@@ -565,7 +565,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "../../../../Applications/KiCad/KiCad.app/Contents/Applications/",
-      "plot": "../thermistor-ring-CAM/v1.4-MSOP-SMALLER-PADS/",
+      "plot": "/Users/jdh/thermistor-ring-CAM/v2.0_smallerpads/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
